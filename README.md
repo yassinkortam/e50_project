@@ -7,7 +7,9 @@ V" + 2V' + 5V = 50, V(0) = V"(0) = 0
 
 In addition to this, the program must conduct a simple error analysis given the exact analytic solution and exports relevant data into csv files for investigation. 
 
-To be extra industriuous, I decided to give this program the ability to solve any linear ODE with a constant forcing function. Although there are probably better ways to do this (e.g. via laplace transforms, etc.) it was an assignment requirement to use differencing. This project was completed in ~3 days.
+To be extra industriuous, I decided to give this program the ability to solve any linear ODE with a constant forcing function. Although there are probably better ways to do this (e.g. via laplace transforms, etc.) it was an assignment requirement to use differencing. 
+
+This project was completed in ~3 days.
 
 
 ## linode_input.h
