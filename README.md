@@ -1,5 +1,5 @@
 # E50 Project
-The objective of this project is to create a C++ program to approximate the solution to the following initial value problem **using differencing:
+The objective of this project is to create a C++ program to approximate the solution to the following initial value problem **using differencing**:
 V" + 2V' + 5V = 50, V(0) = V"(0) = 0
 In addition to this, the program must conduct a simple error analysis given the exact analytic solution and exports relevant data into csv files for investigation. 
 
